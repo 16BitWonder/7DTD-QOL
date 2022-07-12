@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+    <ModInfo>
+        <Name value="More Eggs" />
+        <Description value="Eggs may fall from chopped trees, harvested from chickens and spawn more frequently in nests." />
+        <Author value="16BitWonder" />
+        <Version value="A20.6" />
+    </ModInfo>
+</xml>
