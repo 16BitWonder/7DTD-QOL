@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <xml>
-	<ModInfo>
-		<Name value="Double Skill Points"/>
-		<Description value="Doubles the skill points gained per level from 1 to 2."/>
-		<Author value="16BitWonder"/>
-		<Version value="A20.6"/>
-	</ModInfo>
+    <Name value="DoubleSkillPoints" />
+    <DisplayName value="Double Skill Points" />
+    <Version value="1.0.0" />
+    <Description value="Two Skill Points Per Level Instead of One" />
+    <Author value="16BitWonder" />
+    <Website value="https://github.com/16BitWonder/7DTD-QOL" />
 </xml>

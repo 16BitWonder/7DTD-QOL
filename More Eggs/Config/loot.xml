@@ -1,4 +1,4 @@
-<configs>
+<config>
 	<setattribute xpath="/lootcontainers/lootgroup[@name='groupBirdNest02']/item[@name='foodEgg']" name="count">1,5</setattribute>
 	<setattribute xpath="/lootcontainers/lootgroup[@name='groupBirdNest02']/item[@name='foodEgg']" name="loot_prob_template">medHigh</setattribute>
-</configs>
+</config>
