@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+    <Name value="MorePreyAnimals" />
+    <DisplayName value="More Prey Animals" />
+    <Version value="1.0.0" />
+    <Description value="Increases the number of prey animals per biome and decreases their respawn rate" />
+    <Author value="16BitWonder" />
+    <Website value="https://github.com/16BitWonder/7DTD-QOL" />
+</xml>

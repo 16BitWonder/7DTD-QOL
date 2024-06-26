@@ -1,0 +1,10 @@
+<config>
+    <set xpath="/spawning/biome[@name='pine_forest']/spawn[@entitygroup='WildGameForest']/@maxcount">3</set>
+	<set xpath="/spawning/biome[@name='pine_forest']/spawn[@entitygroup='WildGameForest']/@respawndelay">0.167</set>
+    <set xpath="/spawning/biome[@name='burnt_forest']/spawn[@entitygroup='WildGameForest']/@maxcount">2</set>
+	<set xpath="/spawning/biome[@name='burnt_forest']/spawn[@entitygroup='WildGameForest']/@respawndelay">0.167</set>
+    <set xpath="/spawning/biome[@name='desert']/spawn[@entitygroup='WildGameForest']/@maxcount">2</set>
+	<set xpath="/spawning/biome[@name='desert']/spawn[@entitygroup='WildGameForest']/@respawndelay">0.167</set>
+    <set xpath="/spawning/biome[@name='snow']/spawn[@entitygroup='WildGameForest']/@maxcount">2</set>
+	<set xpath="/spawning/biome[@name='snow']/spawn[@entitygroup='WildGameForest']/@respawndelay">0.167</set>
+</config>
